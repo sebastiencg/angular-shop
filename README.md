@@ -1,6 +1,7 @@
-# angular-shop
+<h1>angular-shop</h1> 
 pour faire un github page il faut faire un 
-** 1) ng build
+<p> ng build</p>
    puis
-** 2) ng build --configuration=production --base-href ./
+<p>ng build --configuration=production --base-href ./
 copier les fichier dans un depot git vierge et c'est bon
+</p> 
