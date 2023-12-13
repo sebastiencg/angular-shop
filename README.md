@@ -2,6 +2,5 @@
 pour faire un github page il faut faire un 
 <p><strong> ng build</strong></p>
    <p>puis</p>
-<p><strong>ng build --configuration=production --base-href ./
-copier les fichier dans un depot git vierge et c'est bon
-</strong> </p>
+<p><strong>ng build --configuration=production --base-href ./</strong> </p>
+<p>copier les fichier dans un depot git vierge et c'est bon</p>
